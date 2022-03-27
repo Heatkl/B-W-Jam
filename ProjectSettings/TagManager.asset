@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Yeti
+  - Snowball
+  - HitCollider
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 1092913949
+    locked: 0
+  - name: Trees
+    uniqueID: 179663655
+    locked: 0
+  - name: Snowball
+    uniqueID: 524404319
+    locked: 0
+  - name: Yeti
+    uniqueID: 2115528641
+    locked: 0
+  - name: UI
+    uniqueID: 2028814633
+    locked: 0
